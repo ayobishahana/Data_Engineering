@@ -25,7 +25,9 @@ In order to analyze the data to help the pizza place find opportunities to incre
 - What are the top 3 pizza sizes?
 - what is the average price of a large pizza?
 - what are the top 5 best-selling pizza types and what revenues have they generated in 2015?
+
 In order to carry out the analysis, my analytics plan is as follows:
+
 - Loading the four tables;
 - Building an ETL pipeline to create a data warehouse called dw_sales_analysis;
 - Building an ETL pipeline to create data marts to achieve the above-mentioned five views.
