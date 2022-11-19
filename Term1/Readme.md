@@ -34,7 +34,7 @@ In order to carry out the analysis, my analytics plan is as follows:
 
 ### Analytical Layer
 
-In the analytical layer, I created a data warehouse called dw_sales_analysis in order to provide one single table for both qualitative and quantitative parameters. Then, I used the table to create my views.  It consists of four dimensions; order details, orders, pizza types, and pizzas, and the queries can be #found here#. 
+In the analytical layer, I created a data warehouse called dw_sales_analysis in order to provide one single table for both qualitative and quantitative parameters. Then, I used the table to create my views.  It consists of four dimensions; order details, orders, pizza types, and pizzas, and the queries can be found [here](https://github.com/ayobishahana/Data_Engineering/blob/main/Term1/codes/Data_Warehouse.sql). 
 
 ![AnalyticalLayer](https://github.com/ayobishahana/Data_Engineering/blob/main/Term1/Tables/Analytical_Layer.png)
 
